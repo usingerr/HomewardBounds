@@ -1,0 +1,14 @@
+@relation testingDataUnlabeled
+
+@attribute collar_wifi real
+@attribute collar_bluetooth real
+@attribute hub_wifi real
+@attribute hub_bluetooth real
+@attribute restricted {YES,NO}
+
+@data
+-61,24,-56,6,?
+-61,25,-56,6,?
+-61,8,-56,0,?
+-61,10,-56,0,?
+-61,13,-56,0,?

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-08-07T20:05:11</date>
+  <millis>1533672311994</millis>
+  <sequence>0</sequence>
+  <logger>com.pi4j.util.NativeLibraryLoader</logger>
+  <level>FINE</level>
+  <class>com.pi4j.util.NativeLibraryLoader</class>
+  <method>load</method>
+  <thread>1</thread>
+  <message>Attempting to load [libpi4j.so] using path: [/lib/raspberrypi/dynamic/libpi4j.so]</message>
+</record>
+<record>
+  <date>2018-08-07T20:05:12</date>
+  <millis>1533672312109</millis>
+  <sequence>1</sequence>
+  <logger>com.pi4j.util.NativeLibraryLoader</logger>
+  <level>FINE</level>
+  <class>com.pi4j.util.NativeLibraryLoader</class>
+  <method>load</method>
+  <thread>1</thread>
+  <message>Library [libpi4j.so] has already been loaded; no need to load again.</message>
+</record>
+<record>
+  <date>2018-08-07T20:05:12</date>
+  <millis>1533672312113</millis>
+  <sequence>2</sequence>
+  <logger>com.pi4j.util.NativeLibraryLoader</logger>
+  <level>FINE</level>
+  <class>com.pi4j.util.NativeLibraryLoader</class>
+  <method>load</method>
+  <thread>1</thread>
+  <message>Library [libpi4j.so] has already been loaded; no need to load again.</message>
+</record>
+<record>
+  <date>2018-08-07T20:05:12</date>
+  <millis>1533672312118</millis>
+  <sequence>3</sequence>
+  <logger>com.pi4j.util.NativeLibraryLoader</logger>
+  <level>FINE</level>
+  <class>com.pi4j.util.NativeLibraryLoader</class>
+  <method>load</method>
+  <thread>1</thread>
+  <message>Library [libpi4j.so] has already been loaded; no need to load again.</message>
+</record>
+<record>
+  <date>2018-08-07T20:05:12</date>
+  <millis>1533672312121</millis>
+  <sequence>4</sequence>
+  <logger>com.pi4j.util.NativeLibraryLoader</logger>
+  <level>FINE</level>
+  <class>com.pi4j.util.NativeLibraryLoader</class>
+  <method>load</method>
+  <thread>1</thread>
+  <message>Library [libpi4j.so] loaded successfully using embedded resource file: [/lib/raspberrypi/dynamic/libpi4j.so]</message>
+</record>
+<record>
+  <date>2018-08-07T20:05:12</date>
+  <millis>1533672312154</millis>
+  <sequence>5</sequence>
+  <logger>com.pi4j.util.NativeLibraryLoader</logger>
+  <level>FINE</level>
+  <class>com.pi4j.util.NativeLibraryLoader</class>
+  <method>load</method>
+  <thread>1</thread>
+  <message>Library [libpi4j.so] has already been loaded; no need to load again.</message>
+</record>

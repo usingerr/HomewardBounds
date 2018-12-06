@@ -1,0 +1,2 @@
+include ':app'
+include 'HomewardBoundsApp', ':libs:jsch-0.1.54.jar'

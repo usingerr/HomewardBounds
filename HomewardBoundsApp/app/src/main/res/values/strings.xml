@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Homeward Bounds</string>
+    <string name="begin_tracking_button">Begin Tracking</string>
+    <string name="end_tracking_button">End Tracking</string>
+    <string name="boundary_activity_button">Mark Boundaries</string>
+    <string name="reset_button">Reset Restrictions</string>
+    <string name="begin_restrict_button">Begin Restricting</string>
+    <string name="end_restrict_button">End Restricting</string>
+    <string name="begin_permit_button">Begin Permitting</string>
+    <string name="end_permit_button">End Permitting</string>
+    <string name="how_to_use">How to use?</string>
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/boundsLogo"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/TrackingButton"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/button_background"
+        android:text="@string/begin_tracking_button"
+        android:textColor="@color/buttonTextColor"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/BoundaryActivityButton"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_margin="2dp"
+        android:background="@drawable/button_background"
+        android:text="@string/boundary_activity_button"
+        android:textColor="@color/buttonTextColor"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/trackingView"
+        android:layout_width="match_parent"
+        android:layout_height="70dp" />
+
+    <Button
+        android:id="@+id/ResetButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        android:background="@drawable/button_background"
+        android:text="@string/reset_button"
+        android:textColor="@color/buttonTextColor"
+        android:textSize="20sp" />
+</LinearLayout>
