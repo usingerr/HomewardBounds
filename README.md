@@ -22,4 +22,5 @@
 
 - walk the collar around the banned/allowed area for a minute or so, preferably at dog-height, so as to get the most similar readings as     when it will be on your dog; it could also work to let your dog roam around that area for the same amount of time.
 
-(instructions for running actual thing TBD)
+## To run
+### TBD
