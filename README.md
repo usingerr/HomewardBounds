@@ -4,7 +4,7 @@
   The basic idea is allowing and banning certain areas in your house, and, in so doing, training the hub-pi to identify a banned or allowed area based on a combination of signal strengths to and from the collar-pi. It is necessary to ban areas individually, and possibly necessary for the allowed area to be done in one go.
 
 ## Required hardware
-- Two raspberry pis, preferably full-on pis, and not zeros.
+- two raspberry pis, preferably full-on pis, and not zeros.
 - either a portable battery or very long power cable for one of the pis
 - a place with a power source to affix one of the pis as the hub
 
@@ -18,7 +18,7 @@
     sudo python trainingServer.py YES 1
       I'm fairly certain that you *can* create multiple allowed areas; let me know 
 
-- bring the "collar" (the other pi) into an area that you would like to ban, or that you would like to allow; begin the training. you can   use the same trainingAndRealtimeClient.py. all you need to do is run the client on the collar
+- bring the "collar" (the other pi) into an area that you would like to ban, or that you would like to allow; begin the training. you can   use the same trainingAndRealtimeClient.py. all you need to do is run the client on the collar.
 
 - walk the collar around the banned/allowed area for a minute or so, preferably at dog-height, so as to get the most similar readings as     when it will be on your dog; it could also work to let your dog roam around that area for the same amount of time.
 
