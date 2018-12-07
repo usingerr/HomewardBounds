@@ -4,7 +4,7 @@
   The basic idea is allowing and banning certain areas in your house, and, in so doing, training the hub-pi to identify a banned or allowed area based on a combination of signal strengths to and from the collar-pi. It is necessary to ban areas individually, and possibly necessary for the allowed area to be done in one go.
 
 ## Required hardware
-- two raspberry pis, preferably full-on pis, and not zeros.
+- two raspberry pis (non-pi-zeros are recommended)
 - either a portable battery or very long power cable for one of the pis
 - a place with a power source to affix one of the pis as the hub
 
