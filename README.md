@@ -1,4 +1,4 @@
-# HomewardBounds
+# Homeward Bounds
   Homeward Bounds is an application created by Ross Usinger, Giles Holmes, and David Vehapetian for their senior year project at Wentworth Insitute of Technology. The aim is to use one Raspberry Pi to track another Raspberry Pi in a given household, and eventually to create a product that will allow dog owners to keep their dogs out of rooms they want to stay dog-free. 
 
   The basic idea is allowing and banning certain areas in your house, and, in so doing, training the hub-pi to identify a banned or allowed area based on a combination of signal strengths to and from the collar-pi. It is necessary to ban areas individually, and possibly necessary for the allowed area to be done in one go.
